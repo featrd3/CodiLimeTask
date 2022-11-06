@@ -15,8 +15,8 @@
 }
 
 .baseIcon{
-    position:absolute
-
+    position:absolute;
+    cursor: pointer;
 }
 
 .iconActive {

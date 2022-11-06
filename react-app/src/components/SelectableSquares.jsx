@@ -20,10 +20,10 @@ Dictum varius duis at consectetur <b>lorem donec</b> massa sapien. Massa tempor 
                 Elit scelerisque mauris pellentesque?    
             </div>
             <div className = "squaresContainer">
-                <SelectablSquare icon = {wheel}/>
-                <SelectablSquare icon = {scissors}/>
-                <SelectablSquare icon = {android}/>
-                <SelectablSquare icon = {circle}/>
+                <SelectablSquare icon = {wheel} redirectAddress = {"https://codilime.com/services/golang-development/"}/>
+                <SelectablSquare icon = {scissors} redirectAddress = {"https://codilime.com/services/c-and-cpp-development/"}/>
+                <SelectablSquare icon = {android} redirectAddress = {"https://www.android.com/"}/>
+                <SelectablSquare icon = {circle} redirectAddress = {"https://codilime.com/services/rust-development/"}/>
             </div>
         </div>  
     )

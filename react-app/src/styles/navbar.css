@@ -7,14 +7,9 @@ nav{
     height:50px;
 }
 
-.active{
-    text-decoration: underline;
-}
-
 .navbarUl{
     width: 50vw;
     display:grid;
-    /*grid-template-columns: 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857% 14.2857%;  */
     grid-auto-flow: column; 
     padding-inline-start: 0;
 }
@@ -23,6 +18,12 @@ nav{
     list-style-type: none;
     text-align: center;
     padding:10px 0px;
+    color:var(--navInactiveFont);
+}
+
+.active{
+    text-decoration: underline;
+    color:var(--navActiveFont);
 }
 
 .contactUsButtonContainer{
@@ -35,4 +36,11 @@ nav{
 .logo{
     font-weight: 900;
     margin-left: 2.5rem;
+}
+
+
+@media only screen and (max-width: 780px){
+    .navbarUl{
+        width: 100%;
+    }
 }

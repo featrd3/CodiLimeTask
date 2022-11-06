@@ -2,6 +2,7 @@ import {TextWithImg} from "../components/TextWithImg"
 import { ExpandableList } from "../components/ExpandableList"
 import { TextAndQuote } from "../components/TextAndQuote"
 import { SelectableSquares } from "../components/SelectableSquares"
+import { Subscribe } from "../components/Subscribe"
 
 export function Overview(){
     return(   
@@ -21,7 +22,9 @@ export function Overview(){
             <section>
                 <SelectableSquares/>
             </section>
-            <section>Section 7</section>
+            <section>
+                <Subscribe/>
+            </section>
         </main>
     )
 }

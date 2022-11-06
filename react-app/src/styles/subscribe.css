@@ -1,0 +1,49 @@
+.SubscribeContainer{
+    margin-top: 30px;
+    background-color: var(--subscribeContainerBackground);
+    display:grid;
+    justify-content: center;
+}
+
+.SubscribeUpperText{
+    padding: 3rem 0 2rem 0;
+    display:grid;
+    justify-content: center;
+    color: var(--subscribeFontColor);
+    font-weight: bold;
+    font-size: 1.75rem;
+}
+
+.SubscribeInputContainer{
+    display:grid;
+
+    grid-auto-flow: column;
+}
+
+.SubscribeBottomText{
+    padding: 2rem 0 2rem 0;
+    display:grid;
+    justify-content: center;
+    color: var(--subscribeFontColor);
+    font-weight: lighter;
+}
+
+.SubscribeEmailInput{
+    height:100%;
+    width: 40vw;
+    margin-right: 10px;
+    border: 0px solid var(--subscribeBorderColor);
+    color: var(--subscribeInputFontColor);
+    padding-top:0;
+    padding-bottom:0;
+}
+
+.SubscribeEmailButton{
+    width:145px;
+    padding-top: 0;
+}
+
+.subscribeButton{
+    outline: 1px solid var(--subscribeBorderColor);
+    width:145px;
+}

@@ -1,4 +1,7 @@
 :root {
+    --navInactiveFont:#787A7C;
+    --navActiveFont:#2B2D26;
+
     --primaryCol1:#29CC6A;
     --fontColButton:#FFFFFF;
 
@@ -18,4 +21,10 @@
     --squareIconFilterHover: invert(100%) sepia(0%) saturate(7427%) hue-rotate(23deg) brightness(118%) contrast(118%);
     --squareHoverBackground:#29CC6A;
     --squareShadowBackground:#2b2d265f;
+    --squareDetailsFontColor:#FFFFFF;
+
+    --subscribeContainerBackground:#29CC6A;
+    --subscribeInputFontColor:#29CC6A;;
+    --subscribeFontColor:#FFFFFF;
+    --subscribeBorderColor:#FFFFFF;
 }
