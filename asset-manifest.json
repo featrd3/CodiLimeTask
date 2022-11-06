@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CodiLimeTask/static/css/main.b8d0a258.css",
-    "main.js": "/CodiLimeTask/static/js/main.6f332c0f.js",
+    "main.js": "/CodiLimeTask/static/js/main.b35c0981.js",
     "static/media/imgSection_1.png": "/CodiLimeTask/static/media/imgSection_1.fb3db7c992da218bf717.png",
     "static/media/inVision.svg": "/CodiLimeTask/static/media/inVision.ac4d8b781bedbca0e610ee1792ea55a9.svg",
     "static/media/quote1.svg": "/CodiLimeTask/static/media/quote1.3de2c745bbfa22d8b444ee17a0c133b4.svg",
@@ -19,10 +19,10 @@
     "static/media/arrowRight.svg": "/CodiLimeTask/static/media/arrowRight.6380ce8db5881adcb83c8a1ab5bad0df.svg",
     "static/media/minus.svg": "/CodiLimeTask/static/media/minus.9b7b29ffd46a2b75a0f2f5347bd7e199.svg",
     "main.b8d0a258.css.map": "/CodiLimeTask/static/css/main.b8d0a258.css.map",
-    "main.6f332c0f.js.map": "/CodiLimeTask/static/js/main.6f332c0f.js.map"
+    "main.b35c0981.js.map": "/CodiLimeTask/static/js/main.b35c0981.js.map"
   },
   "entrypoints": [
     "static/css/main.b8d0a258.css",
-    "static/js/main.6f332c0f.js"
+    "static/js/main.b35c0981.js"
   ]
 }
