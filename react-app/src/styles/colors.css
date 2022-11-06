@@ -1,0 +1,21 @@
+:root {
+    --primaryCol1:#29CC6A;
+    --fontColButton:#FFFFFF;
+
+    --fontColFooter:#FFFFFF;
+    --footerBG:#2B2D26;
+    --footerLine:#29CC6A;
+
+    --textWithImgAltFontCol:#29CC6A;
+
+    --expandableListLine:#2B2D26;
+
+    --textAndQuoteSideLine:#29CC6A;
+    --textAndQuoteLeftText:#29CC6A;
+
+    --squareIconFilter:invert(74%) sepia(5%) saturate(96%) hue-rotate(131deg) brightness(93%) contrast(86%); 
+    --squareIconFilterGR:invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%); 
+    --squareIconFilterHover: invert(100%) sepia(0%) saturate(7427%) hue-rotate(23deg) brightness(118%) contrast(118%);
+    --squareHoverBackground:#29CC6A;
+    --squareShadowBackground:#2b2d265f;
+}

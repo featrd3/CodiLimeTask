@@ -1,0 +1,56 @@
+.ExpandableListContainer{
+    display:grid;
+    margin-top: 2rem;
+}
+
+
+.elementTitleIconContainer{
+    display:grid;
+    grid-template-columns: calc(100% - 45px) 45px;
+}
+
+.elementIcon{
+    width:45px;
+    height:44px;
+}
+
+.baseIcon{
+    position:absolute
+
+}
+
+.iconActive {
+    transform: rotate(90deg);
+}
+
+.elementDesc{
+    display:none;
+    margin: 2rem 0;
+}
+
+.elementDescActive{
+    margin: 2rem 0;
+}
+
+.listTitle{
+    margin-top: 1rem ;
+    margin-bottom: 1rem ;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.ELSingleElement{
+    margin:1.25rem 0;
+}
+
+.elementTitle{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.expandableListLine{
+    height: 2px;
+    background: var(--expandableListLine);
+    width:100%;
+    margin-top:2rem;
+}

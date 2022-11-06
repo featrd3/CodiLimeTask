@@ -1,0 +1,38 @@
+
+.TextWithImgContainer{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+}
+
+.textWithImgHeader{
+    font-weight: bold;
+    font-size: 3.3rem;
+}
+
+.textWithImgAltFont{
+    color: var(--textWithImgAltFontCol);
+}
+
+.textWithImg_textContainer{
+    margin-top: 1rem;
+    width:80%
+}
+
+.textWithImgTextContent{
+    margin: 1rem 8vw 0 0;
+
+}
+
+.textWithImg_button{
+    height:45px !important;
+}
+
+.textWithImg_img{
+    width:100%;
+}
+
+.textWithImgButton{
+    margin-top: 1rem;
+    max-width:218px;
+}

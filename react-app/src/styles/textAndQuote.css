@@ -1,0 +1,36 @@
+.textAndQuoteContainer{
+    margin-top: 30px;
+    display:grid;
+    grid-template-columns: 40% 50%;
+    align-items: center;
+}
+
+.textAndQuoteContainer_text{
+    display:grid;
+    height:90%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: -8px 0 0 var(--textAndQuoteSideLine);
+    color: var(--textAndQuoteLeftText);
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 0 30px;
+}
+
+.textAndQuoteContainer_quote{
+    font-style: italic;
+}
+
+.quoteOpenContainer{
+    margin: 10px 0;
+} 
+
+.quoteCloseContainer{
+    display:grid;
+    justify-content: end;
+}
+
+.logoContainer{
+    margin-top: 0.5rem;
+    max-width: 88px;
+}

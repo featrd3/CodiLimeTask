@@ -1,0 +1,50 @@
+.SelectableSquares_title{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.SelectableSquaresContainer{
+    margin-top:3rem;
+}
+
+.SelectableSquares_upperText{
+    margin-top:2rem;
+}
+
+.SelectableSquares_lowerText{
+    margin-top:2rem;
+}
+
+.squaresContainer{
+    margin-top: 1rem;
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.square{
+    display:flex;
+
+    -webkit-box-shadow: 0 0 5px 0.5px var(--squareShadowBackground);;
+    -moz-box-shadow: 0 0 5px 0.5px var(--squareShadowBackground);;
+    box-shadow: 0 0 5px 0.5px var(--squareShadowBackground);;
+    height:6rem;
+    width: 223px;
+    height: 175px;
+    justify-content: center;
+    align-items: center;
+}
+
+.squareIcon{
+    height:2.5rem;
+    filter: brightness(0) saturate(100%) var(--squareIconFilter);
+
+}
+
+.square:hover{
+    background-color: var(--squareHoverBackground);
+}
+
+.square:hover .squareIcon{
+    filter: brightness(0) saturate(100%) var(--squareIconFilterHover);
+
+}
