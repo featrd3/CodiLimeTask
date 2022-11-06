@@ -6,7 +6,7 @@ export function ExpandableList(){
 
     return(   
         <div className = "centerMargin width-limit ExpandableListContainer">
-            <div className = "centerMargin listTitle">Lacinia quis vel eros tempor orci.</div>
+            <h2 className = "centerMargin listTitle">Lacinia quis vel eros tempor orci.</h2>
             { ExpandableListJSON.listOfEntries.map(element =>{
                 return(
                     <div key={element.id} >

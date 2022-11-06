@@ -9,9 +9,9 @@ export function SelectableSquares(){
 
     return( 
         <div className = "centerMargin width-limit SelectableSquaresContainer">
-            <div className = "SelectableSquares_title">
+            <h2 className = "SelectableSquares_title">
                 Massa tempor nec feugiat nisl pretium fusce
-            </div>
+            </h2>
             <div className = "SelectableSquares_upperText">
                 Pellentesque <b>habitant</b> morbi tristique senectus et netus et malesuada. <b>Ipsum faucibus vitae</b> aliquet nec ullamcorper sit amet risus nullam.<br/> 
 Dictum varius duis at consectetur <b>lorem donec</b> massa sapien. Massa tempor nec feugiat nisl pretium fusce. 
