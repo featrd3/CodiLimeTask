@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/KrzysztofDudakCodeLimeTask/static/css/main.b8d0a258.css",
-    "main.js": "/KrzysztofDudakCodeLimeTask/static/js/main.348547b1.js",
-    "static/media/imgSection_1.png": "/KrzysztofDudakCodeLimeTask/static/media/imgSection_1.fb3db7c992da218bf717.png",
-    "static/media/inVision.svg": "/KrzysztofDudakCodeLimeTask/static/media/inVision.ac4d8b781bedbca0e610ee1792ea55a9.svg",
-    "static/media/quote1.svg": "/KrzysztofDudakCodeLimeTask/static/media/quote1.3de2c745bbfa22d8b444ee17a0c133b4.svg",
-    "static/media/quote2.svg": "/KrzysztofDudakCodeLimeTask/static/media/quote2.f98617d4d9a08ff1ccf0eb109be23093.svg",
-    "static/media/m.svg": "/KrzysztofDudakCodeLimeTask/static/media/m.f7fa4aeb0f45fd54903f4d5ed2226872.svg",
-    "static/media/android.svg": "/KrzysztofDudakCodeLimeTask/static/media/android.ade976982ba0b35778f7715411184d44.svg",
-    "static/media/github.svg": "/KrzysztofDudakCodeLimeTask/static/media/github.69dccfb8d81b66a69294d13b81cb8e92.svg",
-    "static/media/scissors.svg": "/KrzysztofDudakCodeLimeTask/static/media/scissors.1f4675bc0984ae82dbdc6fceed581287.svg",
-    "static/media/twitter.svg": "/KrzysztofDudakCodeLimeTask/static/media/twitter.9c64b3b7657645452d053a0dce02f2a3.svg",
-    "static/media/wheel.svg": "/KrzysztofDudakCodeLimeTask/static/media/wheel.3c273341ff0542384037c2aa930bdce9.svg",
-    "static/media/linkedIN.svg": "/KrzysztofDudakCodeLimeTask/static/media/linkedIN.b08bb361dc9920c946e2a0f586462127.svg",
-    "static/media/circle.svg": "/KrzysztofDudakCodeLimeTask/static/media/circle.8b4cc197aae1d51d6891c1ebdc2efacf.svg",
-    "static/media/FB.svg": "/KrzysztofDudakCodeLimeTask/static/media/FB.3b0cdf48d18ddeb66419d3da8e1ac455.svg",
-    "index.html": "/KrzysztofDudakCodeLimeTask/index.html",
-    "static/media/arrowRight.svg": "/KrzysztofDudakCodeLimeTask/static/media/arrowRight.6380ce8db5881adcb83c8a1ab5bad0df.svg",
-    "static/media/minus.svg": "/KrzysztofDudakCodeLimeTask/static/media/minus.9b7b29ffd46a2b75a0f2f5347bd7e199.svg",
-    "main.b8d0a258.css.map": "/KrzysztofDudakCodeLimeTask/static/css/main.b8d0a258.css.map",
-    "main.348547b1.js.map": "/KrzysztofDudakCodeLimeTask/static/js/main.348547b1.js.map"
+    "main.css": "/CodiLimeTask/static/css/main.b8d0a258.css",
+    "main.js": "/CodiLimeTask/static/js/main.6f332c0f.js",
+    "static/media/imgSection_1.png": "/CodiLimeTask/static/media/imgSection_1.fb3db7c992da218bf717.png",
+    "static/media/inVision.svg": "/CodiLimeTask/static/media/inVision.ac4d8b781bedbca0e610ee1792ea55a9.svg",
+    "static/media/quote1.svg": "/CodiLimeTask/static/media/quote1.3de2c745bbfa22d8b444ee17a0c133b4.svg",
+    "static/media/quote2.svg": "/CodiLimeTask/static/media/quote2.f98617d4d9a08ff1ccf0eb109be23093.svg",
+    "static/media/m.svg": "/CodiLimeTask/static/media/m.f7fa4aeb0f45fd54903f4d5ed2226872.svg",
+    "static/media/android.svg": "/CodiLimeTask/static/media/android.ade976982ba0b35778f7715411184d44.svg",
+    "static/media/github.svg": "/CodiLimeTask/static/media/github.69dccfb8d81b66a69294d13b81cb8e92.svg",
+    "static/media/scissors.svg": "/CodiLimeTask/static/media/scissors.1f4675bc0984ae82dbdc6fceed581287.svg",
+    "static/media/twitter.svg": "/CodiLimeTask/static/media/twitter.9c64b3b7657645452d053a0dce02f2a3.svg",
+    "static/media/wheel.svg": "/CodiLimeTask/static/media/wheel.3c273341ff0542384037c2aa930bdce9.svg",
+    "static/media/linkedIN.svg": "/CodiLimeTask/static/media/linkedIN.b08bb361dc9920c946e2a0f586462127.svg",
+    "static/media/circle.svg": "/CodiLimeTask/static/media/circle.8b4cc197aae1d51d6891c1ebdc2efacf.svg",
+    "static/media/FB.svg": "/CodiLimeTask/static/media/FB.3b0cdf48d18ddeb66419d3da8e1ac455.svg",
+    "index.html": "/CodiLimeTask/index.html",
+    "static/media/arrowRight.svg": "/CodiLimeTask/static/media/arrowRight.6380ce8db5881adcb83c8a1ab5bad0df.svg",
+    "static/media/minus.svg": "/CodiLimeTask/static/media/minus.9b7b29ffd46a2b75a0f2f5347bd7e199.svg",
+    "main.b8d0a258.css.map": "/CodiLimeTask/static/css/main.b8d0a258.css.map",
+    "main.6f332c0f.js.map": "/CodiLimeTask/static/js/main.6f332c0f.js.map"
   },
   "entrypoints": [
     "static/css/main.b8d0a258.css",
-    "static/js/main.348547b1.js"
+    "static/js/main.6f332c0f.js"
   ]
 }
